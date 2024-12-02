@@ -4,32 +4,6 @@
     <meta name="viewport" content="width=, initial-scale=1.0">
     <title>BONJOUR BOUTIQUE</title>
 
-    <!-- google font cdn link-->
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" rel="stylesheet"/>
-    <link href="https://fonts.googleapis.com/css?family=Homemade+Apple:regular" rel="stylesheet" />
-    <link href="https://fonts.googleapis.com/css?family=Dela+Gothic+One:regular" rel="stylesheet" />
-   
-    <!--Stylesheet-->
-    <link rel="stylesheet" href="style.css">
-    <link rel="shortcut icon" href="images/fav-icon.png">
-    <script src="https://unpkg.com/scrollreveal"></script>
-  </head>
-<body>
-
-  
-    <!--Navigation bar-->
-    <nav class="navbar">
-
-      <a href="#home"class="links">Home</a>
-      <a href="#about"class="links"></i>About Us</a>
-      <a href="#review"class="links"></i>Review</a>
-      <a href="index2.html#shop"class="links"></i>Shop</a>
-      <a href="#contact"class="links"></i>Contact Us</a>
-  
-      </nav>
-     <a href=#logo class="links1">
-     <img src="logo.jpg" class="img1"> 
-     </a>
 
 <!--background image animation-->
 <section class="home" id="home">
