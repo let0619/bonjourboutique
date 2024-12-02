@@ -29,7 +29,7 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
 <div class="remember-forgot">
 <label><input type="checkbox"> Remember me</label>
 </div>
-<a href="cafe.html" class="btn">Login</a>
+<a href="index.html" class="btn">Login</a>
 <div class="login-register">
 <p>Don't have an account?<a href="#" class="register-link"> Register</a></p>
 </div>
@@ -61,7 +61,7 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
 <div class="remember-forgot">
 <label><input type="checkbox"> I agree to the terms and conditions</label>
 </div>
-<a href="cafe.html" class="btn">Register</a>
+<a href="index.html" class="btn">Register</a>
 <div class="login-register">
 <p>Already have an account?<a href="#" class="login-link"> Login</a></p>
 </div>
