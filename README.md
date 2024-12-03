@@ -55,7 +55,7 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
 <div class="input-box">
 <span class="icon"><i class="fas fa-lock"></i></span>
 <input type="password" required>
-<label>Comfirm password</label>
+<label>Confirm password</label>
 </div>
 <div class="remember-forgot">
 <label><input type="checkbox"> I agree to the terms and conditions</label>
